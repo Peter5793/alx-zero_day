@@ -1,1 +1,9 @@
-# This file is for the Git Exercise
+# This file is for Git 
+
+ 
+============================================
+#### It contains updates in
+============================================
+1. Making and updating branches
+
+
